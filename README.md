@@ -5,10 +5,10 @@ I haven't used Python since high school, and when I did, it wasn't for anything 
 
 # Resources
 
-[Kaggle Documentation](https://www.kaggle.com/docs/api)
-[W3Schools - Python](https://www.w3schools.com/datascience/ds_python.asp)
-[Pandas Documentation](https://pandas.pydata.org/docs/reference/)
-[Stack Overflow](https://stackoverflow.com/)
-[How to filter value_counts](https://softhints.com/pandas-how-to-filter-results-of-value_counts)
-[Filter Dataframe by column values](https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/)
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+* [Kaggle Documentation](https://www.kaggle.com/docs/api)
+* [W3Schools - Python](https://www.w3schools.com/datascience/ds_python.asp)
+* [Pandas Documentation](https://pandas.pydata.org/docs/reference/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [How to filter value_counts](https://softhints.com/pandas-how-to-filter-results-of-value_counts)
+* [Filter Dataframe by column values](https://www.geeksforgeeks.org/ways-to-filter-pandas-dataframe-by-column-values/)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
